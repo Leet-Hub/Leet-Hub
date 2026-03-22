@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm <b>Sudarshan (aka Leet) — a Computer Engineering student and a passionate Web & Application Developer.<br>ㅤI work on real-time projects, building scalable and production-ready websites and applications.<br>ㅤI’m the Founder of Leet-Hub — a brand where we provide development services and share free source code of some of our projects on this GitHub.<br>I believe in practical learning — most of my skills come from building real-world projects rather than just theory.
+Hey! I'm <b>Sudarshan (aka Leet) — a Computer Engineering student and a passionate Web & Application Developer.<br>ㅤI work on real-time projects, building scalable and production-ready websites and applications.<br>ㅤI’m the Founder of Leet-Hub — a brand where we provide development services and share free source code of some of our projects on ㅤthis GitHub.<br>ㅤI believe in practical learning — most of my skills come from building real-world projects rather than just theory.
 
 
 ## 🌐 Socials:
