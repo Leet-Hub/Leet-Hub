@@ -2,7 +2,7 @@
 Hey! I'm <b>Sudarshan (aka Leet) — a Computer Engineering student and a passionate Web & Application Developer.<br><br>ㅤI work on real-time projects, building scalable and production-ready websites and applications.<br><br>ㅤI’m the Founder of Leet-Hub — a brand where we provide development services and share free source code of some of our projects on ㅤthis GitHub.<br><br>ㅤI believe in practical learning — most of my skills come from building real-world projects rather than just theory.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Q8BUNu5FqK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/leethub_official/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sudarshan-leet-lanjile) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Leet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Leet-Hub) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Leet-Hub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leethub.official@gmail.com) 
 
 # 🤫 Tech Stack:
